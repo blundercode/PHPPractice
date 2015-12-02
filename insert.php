@@ -58,7 +58,7 @@
 			?>>Male<br>
 		Favorite color:
 			<select name="color">
-				<option value="">Choose a Goddamn color</option>
+				<option value="">Choose a color</option>
 				<option value="#f00" <?php 
 				if ($color === '#f00') {
 					echo ' selected';

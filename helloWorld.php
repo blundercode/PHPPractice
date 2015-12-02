@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -6,7 +6,8 @@
 </head>
 	<body>
 		<p><?php
-			echo "Hello World! buttfuck";	
+			$var1 = "fun"
+			echo $var1;	
 			?></p>
 	</body>
 </html>
